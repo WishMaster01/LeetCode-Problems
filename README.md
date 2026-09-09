@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0713-subarray-product-less-than-k](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 ## Quicksort
 |  |
 | ------- |
@@ -80,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
