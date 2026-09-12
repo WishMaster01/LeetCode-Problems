@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
