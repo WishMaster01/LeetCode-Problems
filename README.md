@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
