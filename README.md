@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0075-sort-colors) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
@@ -188,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0069-sqrtx) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
