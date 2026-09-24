@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 ## Trie
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
