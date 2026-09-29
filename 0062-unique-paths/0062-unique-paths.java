@@ -5,7 +5,7 @@ class Solution {
         return countPaths(m - 1, n - 1, dp);
     }
 
-    private int countPaths(int rows, int cols, int[][] dp) {
+    int countPaths(int rows, int cols, int[][] dp) {
         if(rows == 0 || cols == 0) return 1;
 
         if(dp[rows][cols] != 0) {
