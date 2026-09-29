@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0321-create-maximum-number](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0321-create-maximum-number](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0321-create-maximum-number) |
 | [0567-permutation-in-string](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
