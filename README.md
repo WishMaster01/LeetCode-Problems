@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0707-design-linked-list) |
@@ -372,4 +375,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
