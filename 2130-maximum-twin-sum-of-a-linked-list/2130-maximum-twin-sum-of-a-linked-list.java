@@ -30,7 +30,6 @@ class Solution {
         int ans = 0;
         while(prev != null) {
             ans = Math.max(ans, head.val + prev.val);
-
             head = head.next;
             prev = prev.next;
         }
