@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2487-remove-nodes-from-linked-list](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
