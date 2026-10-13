@@ -5,8 +5,28 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-13T16:44:26.297Z",
+  "updatedAt": "2026-10-13T16:44:48.251Z",
   "problems": [
+    {
+      "frontendId": "199",
+      "title": "Binary Tree Right Side View",
+      "slug": "binary-tree-right-side-view",
+      "problemName": "0199-binary-tree-right-side-view",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
+      "folderPath": "LeetCode-Problems/0199-binary-tree-right-side-view/",
+      "readmePath": "LeetCode-Problems/0199-binary-tree-right-side-view/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0199-binary-tree-right-side-view.java",
+          "path": "LeetCode-Problems/0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.java",
+          "sha": "528d7f3fa7f54651963f52ea6dd2f301b92b25b2",
+          "lastSyncedAt": "2026-10-13T16:44:48.251Z"
+        }
+      ]
+    },
     {
       "frontendId": "993",
       "title": "Cousins in Binary Tree",
