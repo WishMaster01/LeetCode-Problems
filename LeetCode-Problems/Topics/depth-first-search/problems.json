@@ -5,8 +5,28 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-13T16:47:41.813Z",
+  "updatedAt": "2026-10-13T16:48:01.859Z",
   "problems": [
+    {
+      "frontendId": "111",
+      "title": "Minimum Depth of Binary Tree",
+      "slug": "minimum-depth-of-binary-tree",
+      "problemName": "0111-minimum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+      "folderPath": "LeetCode-Problems/0111-minimum-depth-of-binary-tree/",
+      "readmePath": "LeetCode-Problems/0111-minimum-depth-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0111-minimum-depth-of-binary-tree.java",
+          "path": "LeetCode-Problems/0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.java",
+          "sha": "2dd97c5e8fafc8d510d7d67f024c4efe744e03c0",
+          "lastSyncedAt": "2026-10-13T16:48:01.859Z"
+        }
+      ]
+    },
     {
       "frontendId": "112",
       "title": "Path Sum",
