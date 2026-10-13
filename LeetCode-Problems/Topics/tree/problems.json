@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-13T16:53:59.414Z",
+  "updatedAt": "2026-10-13T16:54:08.316Z",
   "problems": [
     {
       "frontendId": "100",
@@ -63,7 +63,7 @@
           "filename": "0102-binary-tree-level-order-traversal.java",
           "path": "LeetCode-Problems/0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.java",
           "sha": "4ac907d5e177d95adea1ce275ee882d6cd409574",
-          "lastSyncedAt": "2026-10-13T16:45:41.661Z"
+          "lastSyncedAt": "2026-10-13T16:54:08.316Z"
         }
       ]
     },
