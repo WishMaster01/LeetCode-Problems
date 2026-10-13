@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String",
+    "tagId": "10"
+  },
+  "updatedAt": "2026-10-13T16:44:08.338Z",
+  "problems": [
+    {
+      "frontendId": "13",
+      "title": "Roman to Integer",
+      "slug": "roman-to-integer",
+      "problemName": "0013-roman-to-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/",
+      "folderPath": "LeetCode-Problems/0013-roman-to-integer/",
+      "readmePath": "LeetCode-Problems/0013-roman-to-integer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0013-roman-to-integer.java",
+          "path": "LeetCode-Problems/0013-roman-to-integer/0013-roman-to-integer.java",
+          "sha": "5aebababbb0a90b1e2b699e7b2638dad4e48060d",
+          "lastSyncedAt": "2026-10-13T16:44:08.338Z"
+        }
+      ]
+    }
+  ]
+}
