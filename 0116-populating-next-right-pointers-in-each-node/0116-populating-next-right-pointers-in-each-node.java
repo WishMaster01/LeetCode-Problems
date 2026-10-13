@@ -27,29 +27,22 @@ class Solution {
             return null;
         }
 
-        Queue<Node> queue = new LinkedList<>();
-        queue.offer(root);
+        dfs(root);
+        return root;
+    }
 
-        while (!queue.isEmpty()) {
-            int size = queue.size();
-
-            for (int i = 0; i < size; i++) {
-                Node node = queue.poll();
-
-                if (i < size - 1) {
-                    node.next = queue.peek();
-                }
-
-                if (node.left != null) {
-                    queue.offer(node.left);
-                }
-
-                if (node.right != null) {
-                    queue.offer(node.right);
-                }
-            }
+    private void dfs(Node node) {
+        if (node == null || node.left == null) {
+            return;
         }
 
-        return root;
+        node.left.next = node.right;
+
+        if (node.next != null) {
+            node.right.next = node.next.left;
+        }
+
+        dfs(node.left);
+        dfs(node.right);
     }
 }
