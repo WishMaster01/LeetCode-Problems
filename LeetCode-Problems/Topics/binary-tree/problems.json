@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-13T16:46:50.136Z",
+  "updatedAt": "2026-10-13T16:47:09.870Z",
   "problems": [
     {
       "frontendId": "102",
@@ -44,6 +44,26 @@
           "path": "LeetCode-Problems/0103-binary-tree-zigzag-level-order-traversal/0103-binary-tree-zigzag-level-order-traversal.java",
           "sha": "4392218efb1cf214c1900f8200726c6fd70fbf84",
           "lastSyncedAt": "2026-10-13T16:45:22.651Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "113",
+      "title": "Path Sum II",
+      "slug": "path-sum-ii",
+      "problemName": "0113-path-sum-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum-ii/",
+      "folderPath": "LeetCode-Problems/0113-path-sum-ii/",
+      "readmePath": "LeetCode-Problems/0113-path-sum-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0113-path-sum-ii.java",
+          "path": "LeetCode-Problems/0113-path-sum-ii/0113-path-sum-ii.java",
+          "sha": "b0be1cd57c013e2acae03e2b9553be385cd717ab",
+          "lastSyncedAt": "2026-10-13T16:47:09.870Z"
         }
       ]
     },
