@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-13T16:46:32.075Z",
+  "updatedAt": "2026-10-13T16:46:50.136Z",
   "problems": [
     {
       "frontendId": "124",
@@ -84,6 +84,26 @@
           "path": "LeetCode-Problems/0637-average-of-levels-in-binary-tree/0637-average-of-levels-in-binary-tree.java",
           "sha": "0b7f0253ee30ebacab1612a31ba56899cec34939",
           "lastSyncedAt": "2026-10-13T16:45:07.731Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "863",
+      "title": "All Nodes Distance K in Binary Tree",
+      "slug": "all-nodes-distance-k-in-binary-tree",
+      "problemName": "0863-all-nodes-distance-k-in-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
+      "folderPath": "LeetCode-Problems/0863-all-nodes-distance-k-in-binary-tree/",
+      "readmePath": "LeetCode-Problems/0863-all-nodes-distance-k-in-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0863-all-nodes-distance-k-in-binary-tree.java",
+          "path": "LeetCode-Problems/0863-all-nodes-distance-k-in-binary-tree/0863-all-nodes-distance-k-in-binary-tree.java",
+          "sha": "632ed90417a7ebf486c02b0054a7abe88633bbef",
+          "lastSyncedAt": "2026-10-13T16:46:50.136Z"
         }
       ]
     },
