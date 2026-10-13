@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "depth-first-search",
+    "name": "Depth-First Search",
+    "tagId": "21"
+  },
+  "updatedAt": "2026-10-13T16:44:26.297Z",
+  "problems": [
+    {
+      "frontendId": "993",
+      "title": "Cousins in Binary Tree",
+      "slug": "cousins-in-binary-tree",
+      "problemName": "0993-cousins-in-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/cousins-in-binary-tree/",
+      "folderPath": "LeetCode-Problems/0993-cousins-in-binary-tree/",
+      "readmePath": "LeetCode-Problems/0993-cousins-in-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0993-cousins-in-binary-tree.java",
+          "path": "LeetCode-Problems/0993-cousins-in-binary-tree/0993-cousins-in-binary-tree.java",
+          "sha": "e85d005aaab8104dd11bfacf301743e3ccb5bfef",
+          "lastSyncedAt": "2026-10-13T16:44:26.297Z"
+        }
+      ]
+    }
+  ]
+}
