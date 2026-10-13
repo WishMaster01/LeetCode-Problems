@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-13T17:00:33.826Z",
+  "updatedAt": "2026-10-13T17:00:45.884Z",
   "problems": [
     {
       "frontendId": "2",
@@ -44,6 +44,26 @@
           "path": "LeetCode-Problems/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.java",
           "sha": "37987dc2c304c41bd1d08a69edf7cfe2192fef61",
           "lastSyncedAt": "2026-10-13T17:00:33.826Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "25",
+      "title": "Reverse Nodes in k-Group",
+      "slug": "reverse-nodes-in-k-group",
+      "problemName": "0025-reverse-nodes-in-k-group",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+      "folderPath": "LeetCode-Problems/0025-reverse-nodes-in-k-group/",
+      "readmePath": "LeetCode-Problems/0025-reverse-nodes-in-k-group/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0025-reverse-nodes-in-k-group.java",
+          "path": "LeetCode-Problems/0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.java",
+          "sha": "929918ff4e9ee03ff066046dae22fd8ceecb1afe",
+          "lastSyncedAt": "2026-10-13T17:00:45.884Z"
         }
       ]
     },
