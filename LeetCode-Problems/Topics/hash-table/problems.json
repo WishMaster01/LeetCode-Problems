@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T16:54:49.010Z",
+  "updatedAt": "2026-10-13T16:57:50.208Z",
   "problems": [
     {
       "frontendId": "13",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Problems/0013-roman-to-integer/0013-roman-to-integer.java",
           "sha": "5aebababbb0a90b1e2b699e7b2638dad4e48060d",
           "lastSyncedAt": "2026-10-13T16:53:20.963Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "138",
+      "title": "Copy List with Random Pointer",
+      "slug": "copy-list-with-random-pointer",
+      "problemName": "0138-copy-list-with-random-pointer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+      "folderPath": "LeetCode-Problems/0138-copy-list-with-random-pointer/",
+      "readmePath": "LeetCode-Problems/0138-copy-list-with-random-pointer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0138-copy-list-with-random-pointer.java",
+          "path": "LeetCode-Problems/0138-copy-list-with-random-pointer/0138-copy-list-with-random-pointer.java",
+          "sha": "13e4272f09d66c7b0c09a7ffdf17794af48f662a",
+          "lastSyncedAt": "2026-10-13T16:57:50.208Z"
         }
       ]
     },
