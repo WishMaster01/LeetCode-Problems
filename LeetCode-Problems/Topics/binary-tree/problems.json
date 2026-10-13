@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-13T16:54:08.316Z",
+  "updatedAt": "2026-10-13T16:54:17.764Z",
   "problems": [
     {
       "frontendId": "100",
@@ -243,7 +243,7 @@
           "filename": "0222-count-complete-tree-nodes.java",
           "path": "LeetCode-Problems/0222-count-complete-tree-nodes/0222-count-complete-tree-nodes.java",
           "sha": "ee459574530f9323c77090fff012d2489b913298",
-          "lastSyncedAt": "2026-10-13T16:45:52.694Z"
+          "lastSyncedAt": "2026-10-13T16:54:17.764Z"
         }
       ]
     },
