@@ -5,8 +5,28 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-13T16:56:59.069Z",
+  "updatedAt": "2026-10-13T16:57:19.663Z",
   "problems": [
+    {
+      "frontendId": "144",
+      "title": "Binary Tree Preorder Traversal",
+      "slug": "binary-tree-preorder-traversal",
+      "problemName": "0144-binary-tree-preorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+      "folderPath": "LeetCode-Problems/0144-binary-tree-preorder-traversal/",
+      "readmePath": "LeetCode-Problems/0144-binary-tree-preorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0144-binary-tree-preorder-traversal.java",
+          "path": "LeetCode-Problems/0144-binary-tree-preorder-traversal/0144-binary-tree-preorder-traversal.java",
+          "sha": "841c17361c4a628970f6e884cb5d1eabcf900d96",
+          "lastSyncedAt": "2026-10-13T16:57:19.663Z"
+        }
+      ]
+    },
     {
       "frontendId": "145",
       "title": "Binary Tree Postorder Traversal",
