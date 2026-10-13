@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-13T16:57:59.983Z",
+  "updatedAt": "2026-10-13T16:58:18.411Z",
   "problems": [
     {
       "frontendId": "138",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Problems/0138-copy-list-with-random-pointer/0138-copy-list-with-random-pointer.java",
           "sha": "13e4272f09d66c7b0c09a7ffdf17794af48f662a",
           "lastSyncedAt": "2026-10-13T16:57:50.208Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1019",
+      "title": "Next Greater Node In Linked List",
+      "slug": "next-greater-node-in-linked-list",
+      "problemName": "1019-next-greater-node-in-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-node-in-linked-list/",
+      "folderPath": "LeetCode-Problems/1019-next-greater-node-in-linked-list/",
+      "readmePath": "LeetCode-Problems/1019-next-greater-node-in-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1019-next-greater-node-in-linked-list.java",
+          "path": "LeetCode-Problems/1019-next-greater-node-in-linked-list/1019-next-greater-node-in-linked-list.java",
+          "sha": "058740e4338238af9943ee93ca7aa4aad9ac8c8f",
+          "lastSyncedAt": "2026-10-13T16:58:18.411Z"
         }
       ]
     },
