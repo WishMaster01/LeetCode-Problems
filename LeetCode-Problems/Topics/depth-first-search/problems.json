@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-13T16:48:22.499Z",
+  "updatedAt": "2026-10-13T16:49:22.202Z",
   "problems": [
     {
       "frontendId": "104",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Problems/0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.java",
           "sha": "63d363b6f99eda77abe4c788d92f1ea5604e7478",
           "lastSyncedAt": "2026-10-13T16:48:22.499Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "110",
+      "title": "Balanced Binary Tree",
+      "slug": "balanced-binary-tree",
+      "problemName": "0110-balanced-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
+      "folderPath": "LeetCode-Problems/0110-balanced-binary-tree/",
+      "readmePath": "LeetCode-Problems/0110-balanced-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0110-balanced-binary-tree.java",
+          "path": "LeetCode-Problems/0110-balanced-binary-tree/0110-balanced-binary-tree.java",
+          "sha": "1d4e496372db6603b33d741291b2e6481aa4a606",
+          "lastSyncedAt": "2026-10-13T16:49:22.202Z"
         }
       ]
     },
