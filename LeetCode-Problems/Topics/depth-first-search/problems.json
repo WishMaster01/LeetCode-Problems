@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-13T16:55:58.792Z",
+  "updatedAt": "2026-10-13T16:56:08.692Z",
   "problems": [
     {
       "frontendId": "100",
@@ -83,7 +83,7 @@
           "filename": "0110-balanced-binary-tree.java",
           "path": "LeetCode-Problems/0110-balanced-binary-tree/0110-balanced-binary-tree.java",
           "sha": "1d4e496372db6603b33d741291b2e6481aa4a606",
-          "lastSyncedAt": "2026-10-13T16:49:22.202Z"
+          "lastSyncedAt": "2026-10-13T16:56:08.692Z"
         }
       ]
     },
