@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-function",
+    "name": "Hash Function",
+    "tagId": "61065"
+  },
+  "updatedAt": "2026-10-13T16:47:41.813Z",
+  "problems": [
+    {
+      "frontendId": "572",
+      "title": "Subtree of Another Tree",
+      "slug": "subtree-of-another-tree",
+      "problemName": "0572-subtree-of-another-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subtree-of-another-tree/",
+      "folderPath": "LeetCode-Problems/0572-subtree-of-another-tree/",
+      "readmePath": "LeetCode-Problems/0572-subtree-of-another-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0572-subtree-of-another-tree.java",
+          "path": "LeetCode-Problems/0572-subtree-of-another-tree/0572-subtree-of-another-tree.java",
+          "sha": "f67c410520de255fab4ccc9525b5f505616fc3a2",
+          "lastSyncedAt": "2026-10-13T16:47:41.813Z"
+        }
+      ]
+    }
+  ]
+}
