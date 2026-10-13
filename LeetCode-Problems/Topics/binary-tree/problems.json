@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-13T16:55:32.599Z",
+  "updatedAt": "2026-10-13T16:55:48.907Z",
   "problems": [
     {
       "frontendId": "100",
@@ -143,7 +143,7 @@
           "filename": "0111-minimum-depth-of-binary-tree.java",
           "path": "LeetCode-Problems/0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.java",
           "sha": "2dd97c5e8fafc8d510d7d67f024c4efe744e03c0",
-          "lastSyncedAt": "2026-10-13T16:48:01.859Z"
+          "lastSyncedAt": "2026-10-13T16:55:48.907Z"
         }
       ]
     },
