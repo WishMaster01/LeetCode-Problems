@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sorting",
+    "name": "Sorting",
+    "tagId": "61049"
+  },
+  "updatedAt": "2026-10-13T17:00:05.220Z",
+  "problems": [
+    {
+      "frontendId": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "problemName": "0148-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+      "folderPath": "LeetCode-Problems/0148-sort-list/",
+      "readmePath": "LeetCode-Problems/0148-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0148-sort-list.java",
+          "path": "LeetCode-Problems/0148-sort-list/0148-sort-list.java",
+          "sha": "82839a46fb4ec2b743f6b4f26b102b17da1e6f76",
+          "lastSyncedAt": "2026-10-13T17:00:05.220Z"
+        }
+      ]
+    }
+  ]
+}
