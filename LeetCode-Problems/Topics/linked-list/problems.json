@@ -2,8 +2,30 @@
   "version": 1,
   "topic": {
     "slug": "linked-list",
-    "name": "Linked List"
+    "name": "Linked List",
+    "tagId": "7"
   },
-  "updatedAt": "2026-10-13T16:52:37.032Z",
-  "problems": []
+  "updatedAt": "2026-10-13T16:57:50.208Z",
+  "problems": [
+    {
+      "frontendId": "138",
+      "title": "Copy List with Random Pointer",
+      "slug": "copy-list-with-random-pointer",
+      "problemName": "0138-copy-list-with-random-pointer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+      "folderPath": "LeetCode-Problems/0138-copy-list-with-random-pointer/",
+      "readmePath": "LeetCode-Problems/0138-copy-list-with-random-pointer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0138-copy-list-with-random-pointer.java",
+          "path": "LeetCode-Problems/0138-copy-list-with-random-pointer/0138-copy-list-with-random-pointer.java",
+          "sha": "13e4272f09d66c7b0c09a7ffdf17794af48f662a",
+          "lastSyncedAt": "2026-10-13T16:57:50.208Z"
+        }
+      ]
+    }
+  ]
 }
