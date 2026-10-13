@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bit-manipulation",
+    "name": "Bit Manipulation",
+    "tagId": "19"
+  },
+  "updatedAt": "2026-10-13T16:45:52.694Z",
+  "problems": [
+    {
+      "frontendId": "222",
+      "title": "Count Complete Tree Nodes",
+      "slug": "count-complete-tree-nodes",
+      "problemName": "0222-count-complete-tree-nodes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-complete-tree-nodes/",
+      "folderPath": "LeetCode-Problems/0222-count-complete-tree-nodes/",
+      "readmePath": "LeetCode-Problems/0222-count-complete-tree-nodes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0222-count-complete-tree-nodes.java",
+          "path": "LeetCode-Problems/0222-count-complete-tree-nodes/0222-count-complete-tree-nodes.java",
+          "sha": "ee459574530f9323c77090fff012d2489b913298",
+          "lastSyncedAt": "2026-10-13T16:45:52.694Z"
+        }
+      ]
+    }
+  ]
+}
