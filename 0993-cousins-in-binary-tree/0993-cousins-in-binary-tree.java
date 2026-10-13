@@ -14,33 +14,55 @@
  * }
  */
 class Solution {
-
-    TreeNode xParent = null;
-    TreeNode yParent = null;
-    int xDepth = -1;
-    int yDepth = -1;
-
     public boolean isCousins(TreeNode root, int x, int y) {
-        dfs(root, null, 0, x, y);
-        return xDepth == yDepth && xParent != yParent;    
-    }
-
-    private void dfs(TreeNode node, TreeNode parent, int depth, int x, int y) {
-        if (node == null) {
-            return;
+        if (root == null) {
+            return false;
         }
 
-        if (node.val == x) {
-            xParent = parent;
-            xDepth = depth;
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            boolean foundX = false;
+            boolean foundY = false;
+
+            for (int i = 0; i < size; i++) {
+                TreeNode node = queue.poll();
+
+                if (node.val == x) {
+                    foundX = true;
+                }
+
+                if (node.val == y) {
+                    foundY = true;
+                }
+
+                if (node.left != null && node.right != null) {
+                    if ((node.left.val == x && node.right.val == y) || 
+                        (node.left.val == y && node.right.val == x)) {
+                            return false;
+                        }
+                }
+
+                if (node.left != null) {
+                    queue.offer(node.left);
+                }
+
+                if (node.right != null) {
+                    queue.offer(node.right);
+                }
+            }
+
+            if (foundX && foundY) {
+                return true;
+            }
+
+            if (foundX && foundY) {
+                return false;
+            }
         }
 
-        if (node.val == y) {
-            yParent = parent;
-            yDepth = depth;
-        }
-
-        dfs(node.left, node, depth + 1, x, y);
-        dfs(node.right, node, depth + 1, x, y);
+        return false;
     }
 }
