@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "monotonic-stack",
+    "name": "Monotonic Stack",
+    "tagId": "61054"
+  },
+  "updatedAt": "2026-10-13T16:57:59.983Z",
+  "problems": [
+    {
+      "frontendId": "2487",
+      "title": "Remove Nodes From Linked List",
+      "slug": "remove-nodes-from-linked-list",
+      "problemName": "2487-remove-nodes-from-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nodes-from-linked-list/",
+      "folderPath": "LeetCode-Problems/2487-remove-nodes-from-linked-list/",
+      "readmePath": "LeetCode-Problems/2487-remove-nodes-from-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2487-remove-nodes-from-linked-list.java",
+          "path": "LeetCode-Problems/2487-remove-nodes-from-linked-list/2487-remove-nodes-from-linked-list.java",
+          "sha": "e98178480da41392d285f95884e20535528f94fb",
+          "lastSyncedAt": "2026-10-13T16:57:59.983Z"
+        }
+      ]
+    }
+  ]
+}
