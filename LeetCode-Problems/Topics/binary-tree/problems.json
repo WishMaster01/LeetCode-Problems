@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-13T16:54:17.764Z",
+  "updatedAt": "2026-10-13T16:54:27.121Z",
   "problems": [
     {
       "frontendId": "100",
@@ -203,7 +203,7 @@
           "filename": "0124-binary-tree-maximum-path-sum.java",
           "path": "LeetCode-Problems/0124-binary-tree-maximum-path-sum/0124-binary-tree-maximum-path-sum.java",
           "sha": "5d6013c88831e3323618ddfe74a505fd7d8d8437",
-          "lastSyncedAt": "2026-10-13T16:46:11.736Z"
+          "lastSyncedAt": "2026-10-13T16:54:27.121Z"
         }
       ]
     },
