@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -554,9 +555,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
