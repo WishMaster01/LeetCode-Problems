@@ -9,18 +9,28 @@
  */
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        
-        if (root == null || root == p || root == q) {
-            return root;
+        HashMap<TreeNode, TreeNode> parent = new HashMap<>();
+        buildParent(root, null, parent);
+
+        HashSet<TreeNode> ancestors = new HashSet<>();
+
+        while (p != null) {
+            ancestors.add(p);
+            p = parent.get(p);
         }
 
-        TreeNode left = lowestCommonAncestor(root.left, p, q);
-        TreeNode right = lowestCommonAncestor(root.right, p, q);
-
-        if (left != null && right != null) {
-            return root;
+        while (!ancestors.contains(q)) {
+            q = parent.get(q);
         }
 
-        return left != null ? left : right;
+        return q;
+    }
+
+    private void buildParent(TreeNode root, TreeNode par, HashMap<TreeNode, TreeNode> parent) {
+        if (root == null) return;
+
+        parent.put(root, par);
+        buildParent(root.left, root, parent);
+        buildParent(root.right, root, parent);
     }
 }
