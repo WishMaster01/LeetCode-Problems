@@ -21,7 +21,7 @@ class BSTIterator {
         pushAll(root);    
     }
 
-    private void pushAll(TreeNode root) {
+    public void pushAll(TreeNode root) {
         while (root != null) {
             stack.push(root);
             root = root.left;
