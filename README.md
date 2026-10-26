@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1314-matrix-block-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1314-matrix-block-sum) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2487-remove-nodes-from-linked-list) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
@@ -596,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
@@ -671,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Iterator
 |  |
