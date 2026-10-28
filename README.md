@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -711,4 +714,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
