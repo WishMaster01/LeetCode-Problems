@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2073-time-needed-to-buy-tickets](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Recursion
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
