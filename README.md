@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2073-time-needed-to-buy-tickets](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 ## String
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
+| [2073-time-needed-to-buy-tickets](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
+| [2073-time-needed-to-buy-tickets](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
