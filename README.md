@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2073-time-needed-to-buy-tickets](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Trie
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -602,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -700,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -756,4 +762,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
