@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2073-time-needed-to-buy-tickets](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
+| [3665-twisted-mirror-path-count](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3665-twisted-mirror-path-count](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1314-matrix-block-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1314-matrix-block-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3665-twisted-mirror-path-count) |
 ## Pigeonhole Principle
 |  |
 | ------- |
