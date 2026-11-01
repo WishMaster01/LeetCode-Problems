@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0321-create-maximum-number) |
 | [0347-top-k-frequent-elements](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
