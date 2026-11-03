@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-merge-bsts-to-create-single-bst](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2073-time-needed-to-buy-tickets](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [3665-twisted-mirror-path-count](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
