@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2073-time-needed-to-buy-tickets](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
+| [2747-count-zero-request-servers](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1552-magnetic-force-between-two-balls) |
+| [2747-count-zero-request-servers](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2747-count-zero-request-servers](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Counting
 |  |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [2747-count-zero-request-servers](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
