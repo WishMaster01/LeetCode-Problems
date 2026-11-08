@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1267-count-servers-that-communicate](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1314-matrix-block-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1314-matrix-block-sum) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1267-count-servers-that-communicate](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1314-matrix-block-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1314-matrix-block-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3665-twisted-mirror-path-count) |
 ## Pigeonhole Principle
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1267-count-servers-that-communicate](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -702,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1267-count-servers-that-communicate](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 ## DP on Trees
 |  |
 | ------- |
@@ -793,4 +798,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
