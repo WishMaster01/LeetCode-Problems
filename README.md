@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2747-count-zero-request-servers](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3665-twisted-mirror-path-count) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2747-count-zero-request-servers](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/WishMaster01/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1314-matrix-block-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Queue
 |  |
 | ------- |
