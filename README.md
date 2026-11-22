@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1544-make-the-string-great) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
