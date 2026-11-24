@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3665-twisted-mirror-path-count) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2747-count-zero-request-servers](https://github.com/WishMaster01/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
@@ -851,4 +854,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/WishMaster01/LeetCode-Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/WishMaster01/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
